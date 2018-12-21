@@ -1,16 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title> eSocialMedia</title>
+	<?php
 
+	
+	require("views/index.view.php");
 
-</head>
-<body>
-
-
-    <h1>  eSocialMedia</h1>
-    
-	<p> this is a small platform for a social media </p>
-
-</body>
-</html>
+	?>
